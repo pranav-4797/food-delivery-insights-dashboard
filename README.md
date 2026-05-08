@@ -69,43 +69,43 @@ The dashboard provides insights into:
 
 ## Dashboard 2 — Sales Overview
 
-![Dashboard 2](screenshots/dashboard 2.png)
+![Dashboard 2](screenshots/dashboard2.png)
 
 ---
 
 ## Dashboard 3 — Revenue Analysis
 
-![Dashboard 3](screenshots/dashboard 3.png)
+![Dashboard 3](screenshots/dashboard3.png)
 
 ---
 
 ## Dashboard 4 — Customer Insights
 
-![Dashboard 4](screenshots/dashboard 4.png)
+![Dashboard 4](screenshots/dashboard4.png)
 
 ---
 
 ## Dashboard 5 — Delivery Performance
 
-![Dashboard 5](screenshots/dashboard 5.png)
+![Dashboard 5](screenshots/dashboard5.png)
 
 ---
 
 ## Dashboard 6 — Trend Analysis
 
-![Dashboard 6](screenshots/dashboard 6.png)
+![Dashboard 6](screenshots/dashboard6.png)
 
 ---
 
 ## Dashboard 7 — Operational Analytics
 
-![Dashboard 7](screenshots/dashboard 7.png)
+![Dashboard 7](screenshots/dashboard7.png)
 
 ---
 
 ## Dashboard 8 — Final Dashboard Summary
 
-![Dashboard 8](screenshots/dashboard 8.png)
+![Dashboard 8](screenshots/dashboard8.png)
 
 ---
 
