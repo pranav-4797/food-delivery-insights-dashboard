@@ -176,7 +176,7 @@ Feel free to fork this repository and submit pull requests.
 Add your GitHub profile link here
 
 ## LinkedIn
-Add your LinkedIn profile link here
+https://www.linkedin.com/posts/pranav-chopade4797_powerbi-dataanalytics-dashboarddesign-ugcPost-7460345679178190849-xb0l?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGBkxRYBkRCZgKxyk2NcgVDy0z-pTsoNhnQ
 
 ---
 
